@@ -7,3 +7,9 @@ PyTorch 60 Mins/Scripts/dataset/cifar-10-batches-py/data_batch_5
 PyTorch 60 Mins/Scripts/dataset/cifar-10-batches-py/readme.html
 PyTorch 60 Mins/Scripts/dataset/cifar-10-batches-py/test_batch
 PyTorch 60 Mins/Scripts/dataset/cifar-10-python.tar.gz
+*.pt
+PyTorch Examples/dataset/FashionMNIST/raw/t10k-images-idx3-ubyte
+PyTorch Examples/dataset/FashionMNIST/raw/t10k-labels-idx1-ubyte
+PyTorch Examples/dataset/FashionMNIST/raw/train-images-idx3-ubyte
+PyTorch Examples/dataset/FashionMNIST/raw/train-labels-idx1-ubyte
+*.gz
